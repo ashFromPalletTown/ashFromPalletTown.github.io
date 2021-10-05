@@ -1,0 +1,53 @@
+body{
+	background-color: #fff8f7 !important;
+}
+
+.icons{
+    color: #2b1d1a;
+    padding-left: 40%;
+    padding-top: 2%;
+ 
+}
+
+.icons:hover{
+    color: #1abc9c;
+}
+
+.quote{
+    /* position of quote */
+    text-align: center;
+    
+    /* font style and color */
+    font-family: "Arial Black";
+    color: #2b1d1a;
+    padding: 3%;
+    font-size: 6vw;
+    }
+    
+#c1, #c2, #c3{content: url("images/boa.JPG"); }
+#c4, #c5, #c6{content: url("images/camp.JPG"); }
+#c7, #c8, #c9{content: url("images/tanager.JPG"); }
+#c10, #c11, #c12{content: url("images/ones.jpeg"); }
+#c13, #c14, #c15{content: url("images/marbles.JPG"); }
+#c16, #c17, #c18{content: url("images/UA.JPG"); }
+#c19, #c20, #c21{content: url("images/arnold.JPG"); }
+#c22, #c23, #c24{content: url("images/squad.jpg"); }
+#c25, #c26, #c27{content: url("images/boost.JPG"); }
+
+
+
+/* to make all the columns line up properly */ 
+.leftColumn{
+    float:left;
+    width: 33%;
+  } 
+  
+  .middleColumn{
+   float:right;
+    width: 33%;
+  } 
+  
+  .rightColumn{
+    margin:0 auto; 
+    width: 33%;
+  } 

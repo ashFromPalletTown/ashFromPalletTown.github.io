@@ -1,0 +1,36 @@
+body{
+	background-color: #fff8f7 !important;
+}
+
+.icons{
+    color: #2b1d1a;
+    padding-left: 40%;
+    padding-top: 2%;
+ 
+}
+
+.icons:hover{
+    color: #1abc9c;
+}
+
+.me{
+   /*height: 70%;
+    width: 30%;
+    padding: 20px;
+    border-radius: 12%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;*/
+    width: 100%;
+    height: 99%;
+    padding: 20px;
+    border-radius: 12%;
+}
+
+.txt{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+}
+

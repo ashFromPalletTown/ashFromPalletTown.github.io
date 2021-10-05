@@ -1,0 +1,40 @@
+body{
+	background-color: #fff8f7 !important;
+}
+
+.icons{
+    color: #2b1d1a;
+    padding-left: 40%;
+    padding-top: 2%;
+ 
+}
+
+.icons:hover{
+    color: #1abc9c;
+}
+
+.container .btn{
+    background-color: black;
+    color: grey;
+}
+
+.container .btn:hover {
+    background-color: black;
+    color: #1abc9c;
+  }
+  
+.txt{
+    font-family: "Arial Black";
+    color: #2b1d1a;
+    
+}
+
+.txt2{
+    font-family: "Times New Roman";
+    color: #2b1d1a;
+}
+
+.txt3{
+    font-family: "Times New Roman";
+    font-size: 40px;
+}

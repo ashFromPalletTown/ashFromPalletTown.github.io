@@ -1,0 +1,61 @@
+
+body{
+	background: #fff8f7 !important;
+}
+/* Make the image responsive */
+.container img {
+    width: 100%;
+    height: 99%;
+    padding: 20px;
+    border-radius: 12%;
+  }
+  
+  /* Style the button and place it in the middle of the container/image */
+  .container .btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: black;
+    color: grey;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+ 
+  
+  .container .btn:hover {
+    background-color: black;
+    color: #1abc9c;
+  }
+
+.container{
+  position: relative;
+  width: 50%;
+}
+
+.text{
+    
+  /* font style and color */
+      font-family: "Apple Chancery", cursive;
+      color: #2b1d1a;
+  
+  /* Hover off, come back slowly 
+      transition: all 0.8s ease-in;*/
+  
+  }
+
+  .icons{
+    padding: 4%;
+    color: #2b1d1a;
+  }
+
+.icons:hover{
+    color: #1abc9c;
+}
+ 
+
